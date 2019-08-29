@@ -1,2 +1,4 @@
 this is test
 line2 in b1
+3rd line added to local repo
+4th line
